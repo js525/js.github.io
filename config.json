@@ -1,6 +1,9 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title": "捻月华",
+    "subTitle": "捻一缕月华，记录时光",
+    "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
+    "GMEEK_VERSION": "last",
+    "themeMode": "fix",
+    "dayTheme": "dark",
+    "nightTheme": "github-dark"
 }
